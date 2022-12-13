@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ConcurrentTest\ConcurrentTest\bin\Debug\net6.0\ConcurrentTest.exe
+C:\Users\User\source\repos\ConcurrentTest\ConcurrentTest\bin\Debug\net6.0\ConcurrentTest.deps.json
+C:\Users\User\source\repos\ConcurrentTest\ConcurrentTest\bin\Debug\net6.0\ConcurrentTest.runtimeconfig.json
+C:\Users\User\source\repos\ConcurrentTest\ConcurrentTest\bin\Debug\net6.0\ConcurrentTest.dll
+C:\Users\User\source\repos\ConcurrentTest\ConcurrentTest\bin\Debug\net6.0\ConcurrentTest.pdb
+C:\Users\User\source\repos\ConcurrentTest\ConcurrentTest\obj\Debug\net6.0\ConcurrentTest.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConcurrentTest\ConcurrentTest\obj\Debug\net6.0\ConcurrentTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConcurrentTest\ConcurrentTest\obj\Debug\net6.0\ConcurrentTest.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConcurrentTest\ConcurrentTest\obj\Debug\net6.0\ConcurrentTest.AssemblyInfo.cs
+C:\Users\User\source\repos\ConcurrentTest\ConcurrentTest\obj\Debug\net6.0\ConcurrentTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConcurrentTest\ConcurrentTest\obj\Debug\net6.0\ConcurrentTest.dll
+C:\Users\User\source\repos\ConcurrentTest\ConcurrentTest\obj\Debug\net6.0\refint\ConcurrentTest.dll
+C:\Users\User\source\repos\ConcurrentTest\ConcurrentTest\obj\Debug\net6.0\ConcurrentTest.pdb
+C:\Users\User\source\repos\ConcurrentTest\ConcurrentTest\obj\Debug\net6.0\ConcurrentTest.genruntimeconfig.cache
+C:\Users\User\source\repos\ConcurrentTest\ConcurrentTest\obj\Debug\net6.0\ref\ConcurrentTest.dll
